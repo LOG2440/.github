@@ -2,29 +2,35 @@
 
 Cette organisation regroupe l'ensemble de code, projets et exercices utilisés dans le cadre du cours LOG2440 à Polytechnique Montréal.
 
-Chaque entrepôt contient le nom de la séance et le code utilisé pour cette séance. Certains exemples sont parfois utilisés dans plusieurs séances comme [l'exemple de  serveur web et requêtes AJAX](https://github.com/LOG2440/Cours-8-AJAX) qui est utilisé dans les cours 8,9 et 10.
+Chaque entrepôt contient le nom de la séance et le code utilisé pour cette séance. Notez que le cours est appelé à évoluer dans le temps et l'ordre exact des cours peut changer au fil des sessions.
 
 Certains entrepôts contiennent plusieurs branches. Il est recommandé de faire un _clone_ de l'entrepôt ou un [_fork_](https://docs.github.com/en/get-started/quickstart/fork-a-repo) pour avoir accès à l'ensemble du code.
 
-
 ## Liens vers les entrepôts
 
-Voici l'ensemble des entrepôts disponibles dans l'organisation en  ordre d'utilisation dans le cours.
+Voici l'ensemble des entrepôts disponibles dans l'organisation.
 
-- [Cours 1 - HTML](https://github.com/LOG2440/Cours-1-HTML) : exemple de base d'un site web
-- [Cours 1 - Form](https://github.com/LOG2440/Cours-1-Form) : exemple de formulaire _HTML_ avec validation personnalisée
-- [Cours 2 - CSS](https://github.com/LOG2440/Cours-2-CSS) : exemples d'utilisation du langage _CSS_ pour ajouter des styles aux pages web
-- [Cours 3 et 4 - JS](https://github.com/LOG2440/Cours-3-JS) : code utilisé pour démontrer le fonctionnement du langage _JavaScript_
-- [Cours 4 - Modules JS](https://github.com/LOG2440/Cours-4-Modules) : exemples des différentes manières de modularisation de _JS_
-- [Cours 5 - DOM](https://github.com/LOG2440/Cours-5-DOM) : exemples de manipulation du _DOM_ à travers du _JS_
-- [Cours 6 - Validation](https://github.com/LOG2440/Cours-6-Validation) : exemples d'utilisation de la librairie _Jest_ pour des tests unitaires
-- [Cours 8 et 9 - AJAX et HTTP](https://github.com/LOG2440/Cours-8-AJAX) : exemple de communication par _HTTP_ à travers des requêtes _AJAX_
-- [Cours 9 - Serveurs web et NodeJS](https://github.com/LOG2440/Cours-9-NodeJS) : exemples d'utilisation de _NodeJS_ comme serveur dynamique et la librairie _ExpressJS_
-- [Cours 11 - MongoDB](https://github.com/LOG2440/Cours-11-MongoDB) : exemples d'interaction avec une base de données non relationnelle _MongoDB_
-- [Cours 12 - React](https://github.com/LOG2440/Cours-12-React) : exemples de base de la librairie d'interfaces web _React_
-- [Cours 13 - Gestion d'état en React](https://github.com/LOG2440/Cours-13-React-ClassManager) : exemples des différentes manières de gérer un état avec _React_
-- [Cours 13 - Reducer et patron SAM](https://github.com/LOG2440/Cours-13-Reducer) : exemple d'utilisation du patron SAM et des notions de _reducer_
+- [HTML](https://github.com/LOG2440/Cours-1-HTML) : exemple de base d'un site web
+- [Form](https://github.com/LOG2440/Cours-1-Form) : exemple de formulaire _HTML_ avec validation personnalisée
+- [CSS](https://github.com/LOG2440/Cours-2-CSS) : exemples d'utilisation du langage _CSS_ pour ajouter des styles aux pages web
+- [JS](https://github.com/LOG2440/Cours-3-JS) : code utilisé pour démontrer le fonctionnement du langage _JavaScript_
+- [Modules JS](https://github.com/LOG2440/Cours-4-Modules) : exemples des différentes manières de modularisation de _JS_
+- [DOM et événements dans une page web](https://github.com/LOG2440/Cours-5-DOM) : exemples de manipulation du _DOM_ à travers du _JS_
+- [Validation et Vérification](https://github.com/LOG2440/Cours-6-Validation) : exemples d'utilisation de la librairie _Jest_ pour des tests unitaires
+- [Fonctions asynchrones et AJAX](https://github.com/LOG2440/Cours-8-Async) : fonctions asnychrones et communication _HTTP_ à travers des requêtes _AJAX_
+- [Serveurs web et NodeJS](https://github.com/LOG2440/Cours-9-NodeJS) : exemples d'utilisation de _NodeJS_ comme serveur dynamique et la librairie _ExpressJS_
+- [Persistance et MongoDB](https://github.com/LOG2440/Cours-11-MongoDB) : exemples d'interaction avec une base de données non relationnelle _MongoDB_
+- [ReactJS](https://github.com/LOG2440/Cours-12-React) : exemples de base de la librairie d'interfaces web _React_
+- [Gestion d'état en React](https://github.com/LOG2440/Cours-13-React-ClassManager) : exemples des différentes manières de gérer un état avec _React_
+- [Notions de _Reducer_ et patron SAM](https://github.com/LOG2440/Cours-13-Reducer) : exemple d'utilisation du patron SAM et des notions de _reducer_
 
+## Exercices
+
+Les notions de développement web sont le mieux compris lorsqu'on les met en pratique. À cette fin, l'entrepot [Exercices](https://github.com/LOG2440/Exercices) contient un ensemble d'exercices qui couvrent les différentes notions du cours. 
+
+L'entrepôt est composé de différents répertoires classés en fonction d'une thèmatique du cours. Chaque répertoire contient 1 ou plusieurs exercices sur la thématique. Chaque exercice vient avec une solution possible. 
+
+Vous êtres fortement encouragés d'essayer de compléter l'exercice avant de consulter la solution offerte. Notez que dans certains cas, il peut avoir plusieurs bonnes réponses possibles, surtout pour un exercice d'implémentation de code.
 
 ## Contribution
 
