@@ -23,6 +23,7 @@ Voici l'ensemble des entrepôts disponibles dans l'organisation.
 - [ReactJS](https://github.com/LOG2440/Cours-12-React) : exemples de base de la librairie d'interfaces web _React_
 - [Gestion d'état en React](https://github.com/LOG2440/Cours-13-React-ClassManager) : exemples des différentes manières de gérer un état avec _React_
 - [Notions de _Reducer_ et patron SAM](https://github.com/LOG2440/Cours-13-Reducer) : exemple d'utilisation du patron SAM et des notions de _reducer_
+- [**Exercices**](https://github.com/LOG2440/Exercices) : ensemble d'exercices sur les différentes notions vues dans le cours.
 
 ## Exercices
 
