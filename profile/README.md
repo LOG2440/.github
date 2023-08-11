@@ -22,7 +22,6 @@ Voici l'ensemble des entrepôts disponibles dans l'organisation.
 - [Persistance et MongoDB](https://github.com/LOG2440/Cours-11-MongoDB) : exemples d'interaction avec une base de données non relationnelle _MongoDB_
 - [ReactJS](https://github.com/LOG2440/Cours-12-React) : exemples de base de la librairie d'interfaces web _React_
 - [Gestion d'état en React](https://github.com/LOG2440/Cours-13-React-ClassManager) : exemples des différentes manières de gérer un état avec _React_
-- [Notions de _Reducer_ et patron SAM](https://github.com/LOG2440/Cours-13-Reducer) : exemple d'utilisation du patron SAM et des notions de _reducer_
 - [**Exercices**](https://github.com/LOG2440/Exercices) : ensemble d'exercices sur les différentes notions vues dans le cours.
 
 ## Exercices
@@ -31,7 +30,7 @@ Les notions de développement web sont le mieux compris lorsqu'on les met en pra
 
 L'entrepôt est composé de différents répertoires classés en fonction d'une thèmatique du cours. Chaque répertoire contient 1 ou plusieurs exercices sur la thématique. Chaque exercice vient avec une solution possible. 
 
-Vous êtres fortement encouragés d'essayer de compléter l'exercice avant de consulter la solution offerte. Notez que dans certains cas, il peut avoir plusieurs bonnes réponses possibles, surtout pour un exercice d'implémentation de code.
+Vous êtes fortement encouragés d'essayer de compléter l'exercice avant de consulter la solution offerte. Notez que dans certains cas, il peut avoir plusieurs bonnes réponses possibles, surtout pour un exercice d'implémentation de code.
 
 ## Contribution
 
